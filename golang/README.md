@@ -1,7 +1,7 @@
 # Golang Algorithm and Data Structure
 
 ## 1. Requirement
-<p>In the last first, you must install Golang</p>
+<p>First, you must install Golang</p>
 <p>Suppose your devices was installed before you can move to session two</p>
 <p>if you did not install before, you would access <a href="https://go.dev/doc/install">this link</a> and follow the tutorial to install Go</p>
 
